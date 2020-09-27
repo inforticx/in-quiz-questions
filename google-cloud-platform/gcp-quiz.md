@@ -112,3 +112,26 @@ Google Cloud Platform (GCP) Assessment
 - [x] GCP Marketplace
 - [ ] Google Kubernetes Engine base images
 
+#### Q16. For your application, you are building a Cl/CD pipeline that logs information when a message is sent to a queue. Which services should you select?
+- [ ] Cloud Functions and Cloud Pub/Sub
+- [ ] Clloud Functions and Cloud Spanner
+- [ ] Cloud Run and Cloud Spanner
+- [x] Cloud Run and Cloud Pub/Sub
+
+#### Q17. You want to quickly test a single Docker container image that will start a tateless HTTP service on GCP. Which service do you select to host your container image?
+- [ ] Cloud Run 
+- [ ] Cloud Functions
+- [ ] Cloud Run on Google Kubernetes Engine
+- [x] Google Kubernetes Engine
+
+#### Q17. Which command adds a column family named cf1 to your Bigtable table named my-table?
+- [ ] cbt createfamily my-table cf1 
+- [ ] gcloud createfamily my-table cf1
+- [x] gcloud createfamily cf1 my-table cf1
+- [ ] cbt createfamily cf1 my-table
+
+#### Q18. You need to configure a data retention policy for a Cloud Storage bucket to govem how long objects in the bucket must be retained. What feature do you enable?
+- [ ] Requester Pays 
+- [ ] Bucket Lock
+- [x] Bucket Policy Only
+- [ ] Encryption Type
